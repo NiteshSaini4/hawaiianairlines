@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-28T12:25:46 IST" name="Suite" finished-at="2026-02-28T12:25:54 IST" duration-ms="8381">
+    <groups>
+    </groups>
+    <test started-at="2026-02-28T12:25:46 IST" name="Test" finished-at="2026-02-28T12:25:54 IST" duration-ms="8381">
+      <class name="com.AutomationDemoProject.testcase.TestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AutomationDemoProject.testcase.TestCase@654f0d9c]" started-at="2026-02-28T12:25:46 IST" name="setUp" finished-at="2026-02-28T12:25:50 IST" duration-ms="3617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:0, instance:com.AutomationDemoProject.testcase.TestCase@654f0d9c]" started-at="2026-02-28T12:25:50 IST" name="login" finished-at="2026-02-28T12:25:54 IST" duration-ms="4047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.AutomationDemoProject.testcase.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
