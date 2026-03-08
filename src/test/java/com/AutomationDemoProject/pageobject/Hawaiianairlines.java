@@ -13,23 +13,7 @@ public class Hawaiianairlines
 		ldriver=rdriver;
 		PageFactory.initElements(rdriver,this);
 	}
-	@FindBy(id="username") WebElement username;
-	@FindBy(id="password") WebElement password;
-	@FindBy(id="submit") WebElement submit;
 	
-	public void getUsername(String user)
-	{
-		username.sendKeys(user);
-	}
-	public void getPassword(String pass)
-	{
-		password.sendKeys(pass);
-	}
-	
-	public void getClick()
-	{
-		submit.click();
-	}
 	
 
 }
