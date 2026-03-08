@@ -14,9 +14,7 @@ public class TestCase extends BaseClass
 	{
 		driver.get(url);
 		Hawaiianairlines l=new Hawaiianairlines(driver);
-		l.getUsername("student");
-		l.getPassword("Password123");
-		l.getClick();
+		
 		
 	}
 	
